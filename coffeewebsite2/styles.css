@@ -4,6 +4,11 @@ body, html {
     padding: 0;
     font-family: Arial, sans-serif;
     background-color: #493939;
+    body {
+    text-align: center;
+    font-size: x-large;
+    text-size-adjust:var(-100%);
+}
     /* Slider Section */
 .slider-section {
     text-align: center;
